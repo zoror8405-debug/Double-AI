@@ -1,0 +1,6 @@
+{
+  "name": "AnimeDub AI",
+  "description": "AI Anime Movie Dubber in Bengali, Hindi, & English with flawless Lip-Sync alignment, real-human character voices, and an immersive timeline editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
